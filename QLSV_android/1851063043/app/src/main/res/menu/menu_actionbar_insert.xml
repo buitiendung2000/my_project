@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_camere"
+        android:icon="@drawable/icon_cameara"
+        android:title="Cộng"
+        app:showAsAction="always|withText" />
+    <item
+        android:id="@+id/menu_attach"
+        android:icon="@drawable/icon_attach"
+        android:title="Cộng"
+        app:showAsAction="always|withText" />
+</menu>
